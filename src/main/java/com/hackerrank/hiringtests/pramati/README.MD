@@ -1,7 +1,9 @@
-#Solutions to Problems presented on Pramati Recruitment
+# Solutions to Problems presented on Pramati Recruitment
 
-First one is a simple String max occurrence problem; returning the String (in a given array) that comes last lexicographically when there is more than one match.
+<ol>
+<li>First one is a simple String max occurrence problem; returning the String that occurs the most (in a given array) and when there is more than one match, the String that comes last lexicographically.</li>
 
-The second one is about finding the number of pairs of numbers in a given array such that their difference is equal to a constant k.
+<li>The second one is about finding the number of pairs of numbers in a given array such that their difference is equal to a given constant <code>k</code>.</li>
 
-The last one is about finding the maximum difference of two numbers in a given array `a` such that their indices `i` < `j` and their values `a[i]` < `a[j]`.
+<li>The last one is about finding the maximum difference of two numbers in a given array <code>a</code> such that their indices are  <code>i</code> < <code>j</code> and their values are such that <code>a[i] < a[j]</code>.</li>
+</ol>
